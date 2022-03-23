@@ -12,13 +12,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.26.1",
     "canvas": "^2.9.0",
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "ffmpeg": "^0.0.4",
     "mime-types": "^2.1.34",
     "qrcode-terminal": "^0.12.0",
     "random-memes": "^3.1.0",
     "rmeme": "^1.1.0",
-    "whatsapp-web.js": "^1.15.3"
+    "whatsapp-web.js": "^1.16.4"
   }
 }
