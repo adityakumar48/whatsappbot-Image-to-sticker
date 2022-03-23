@@ -1,5 +1,8 @@
 # whatsappbot-Image-to-sticker
 
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz
+
 ### Videos
 
 #### Part 1 - [https://youtu.be/SaMDP6LYQZU](https://youtu.be/SaMDP6LYQZU)
